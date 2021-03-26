@@ -1,0 +1,8 @@
+print("Программа рассчета уропа пушек!")
+print()
+canon_ist6 = int(input("Кол-во пушек Истязатель 6 ур: "))
+canon_ist5 = int(input("Кол-во пушек Истязатель 5 ур: "))
+canon_destroyer5 = int(input("Кол-во пушек Погибель 5 ур: "))
+canon_destroyer4 = int(input("Кол-во пушек Погибель 4 ур: "))
+canon_destroyer3 = int(input("Кол-во пушек Погибель 3 ур: "))
+print()
